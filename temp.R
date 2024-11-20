@@ -13,3 +13,5 @@ ggplot(data = mpg, aes(x = displ, y = hwy, color = drv)) +
     color = "Napęd (drv)"
   ) +
   theme_bw()
+
+a <- 2+2

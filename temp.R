@@ -15,3 +15,4 @@ ggplot(data = mpg, aes(x = displ, y = hwy, color = drv)) +
   theme_bw()
 
 a <- 2+2
+b<- 'c'
